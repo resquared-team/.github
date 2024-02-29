@@ -1,1 +1,2 @@
-# We are ReSquared
+# DotGithub
+Organization Profile
